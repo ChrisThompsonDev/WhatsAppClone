@@ -9,7 +9,7 @@
     "lastMessage": {
       "id": "m1",
       "text": "Well done this sprint, guys!",
-      "createdAt": "2022-10-14T13:30:00.000Z"
+      "createdAt": "2022-12-16T13:30:00.000Z"
     }
   },
   {
@@ -22,7 +22,7 @@
     "lastMessage": {
       "id": "m2",
       "text": "How are you doing? Did you get any chance to look at what I've sent you?",
-      "createdAt": "2022-10-14T10:48:00.000Z"
+      "createdAt": "2022-12-14T10:48:00.000Z"
     }
   },
   {
@@ -35,7 +35,7 @@
     "lastMessage": {
       "id": "m3",
       "text": "Hi, Vadim. I hope the plans for to night are still on.",
-      "createdAt": "2022-10-13T20:48:00.000Z"
+      "createdAt": "2022-12-13T20:48:00.000Z"
     }
   },
   {
@@ -73,7 +73,7 @@
     },
     "lastMessage": {
       "id": "m6",
-      "text": "I think I have a solution for tha.",
+      "text": "I think I have a solution for that.",
       "createdAt": "2022-10-10T14:48:00.000Z"
     }
   },
